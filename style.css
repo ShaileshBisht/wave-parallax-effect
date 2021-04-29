@@ -13,3 +13,24 @@ section {
   height: 100vh;
   background-color: blue;
 }
+
+.wave {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  background: url(./image/wave.png);
+}
+
+.sec {
+  padding: 100px;
+}
+
+.sec h2 {
+  font-size: 3rem;
+}
+
+.sec p {
+  font-size: 2rem;
+}
